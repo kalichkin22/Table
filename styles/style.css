@@ -1,0 +1,28 @@
+.head {
+    background: #1D176F;
+    color: white;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th {
+    border: 1px solid black;
+}
+
+td {
+    text-align: center;
+    font-size: 0.8em;
+    border: 1px solid black;
+}
+
+.text_bold {
+    font-weight: bold;
+}
+
+.mendeleev_face {
+    height: 228px;
+    width: 200px;
+    background: url(image/mendeleev.png);
+}
